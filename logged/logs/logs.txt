@@ -1,0 +1,6 @@
+id :  769793e7-6f16-4c28-892c-204bbf582946 has made message Hello Wolrd 
+id :  3791294d-516e-4935-b218-bc347860b415 has made message hi 
+id :  078211ab-e61d-44cd-866a-78a85764453f has made message Hello 
+id :  4b365f8a-1e6f-4f1e-81d6-e15e34994bac has made message Writter in : testWritter1the following : This is a test writing  
+id :  60229695-9357-4e07-a4e8-14c5144af71a has made message Writter in : testWritter2the following : This is a test writing  
+id :  c3d05d0a-0f0d-4554-8ac3-ad20e8da5b3c has made message Writter in : testWritter3the following : This is a test writing  
